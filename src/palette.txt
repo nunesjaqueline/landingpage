@@ -1,0 +1,25 @@
+/* Coolors Exported Palette - https://coolors.co/56ae47-78bc6a-94b6a6-62b354-f6f7f5 */
+
+/* CSV */
+56AE47,78BC6A,94B6A6,62B354,F6F7F5
+
+/* With # */
+#56AE47, #78BC6A, #94B6A6, #62B354, #F6F7F5
+
+/* Array */
+["56AE47","78BC6A","94B6A6","62B354","F6F7F5"]
+
+/* Object */
+{"Green RYB":"56AE47","Bud Green":"78BC6A","Cambridge Blue":"94B6A6","Bud Green 2":"62B354","Cultured":"F6F7F5"}
+
+/* Extended Array */
+[{"name":"Green RYB","hex":"56AE47","rgb":[86,174,71],"cmyk":[51,0,59,32],"hsb":[111,59,68],"hsl":[111,42,48],"lab":[64,-47,44]},{"name":"Bud Green","hex":"78BC6A","rgb":[120,188,106],"cmyk":[36,0,44,26],"hsb":[110,44,74],"hsl":[110,38,58],"lab":[70,-37,35]},{"name":"Cambridge Blue","hex":"94B6A6","rgb":[148,182,166],"cmyk":[19,0,9,29],"hsb":[152,19,71],"hsl":[152,19,65],"lab":[71,-15,4]},{"name":"Bud Green","hex":"62B354","rgb":[98,179,84],"cmyk":[45,0,53,30],"hsb":[111,53,70],"hsl":[111,38,52],"lab":[66,-43,41]},{"name":"Cultured","hex":"F6F7F5","rgb":[246,247,245],"cmyk":[0,0,1,3],"hsb":[90,1,97],"hsl":[90,11,96],"lab":[97,-1,1]}]
+
+/* XML */
+<palette>
+  <color name="Green RYB" hex="56AE47" r="86" g="174" b="71" />
+  <color name="Bud Green" hex="78BC6A" r="120" g="188" b="106" />
+  <color name="Cambridge Blue" hex="94B6A6" r="148" g="182" b="166" />
+  <color name="Bud Green" hex="62B354" r="98" g="179" b="84" />
+  <color name="Cultured" hex="F6F7F5" r="246" g="247" b="245" />
+</palette>
