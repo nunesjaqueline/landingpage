@@ -1,5 +1,6 @@
 # Mock Landing Page
 Landing Page - mock project Organicx
+Shop Link still comes
 
 #Demo @codesandbox
 
