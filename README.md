@@ -2,7 +2,8 @@
 Landing Page - mock project Organicx
 Shop Link still comes
 
-# Demo @codesandbox
+# Demo @codesandbox: 
+https://codesandbox.io/s/snowy-platform-r5seiv?file=/index.html
 
 # Used:
 HTML5 - Semantic, Responsive
